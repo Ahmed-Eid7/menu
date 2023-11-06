@@ -64,4 +64,12 @@ a {
 }
 .container .menu-container .menu img {
   width: 200px;
+}
+.container .menu-container .menu svg {
+  width: 180px;
+  color: #03bb86;
+  border: 15px solid #4f008c;
+  border-radius: 25px;
+  padding: 2rem;
+  margin-bottom: 1rem;
 }/*# sourceMappingURL=style.css.map */
