@@ -65,11 +65,18 @@ a {
 .container .menu-container .menu img {
   width: 200px;
 }
-.container .menu-container .menu svg {
-  width: 180px;
-  color: #03bb86;
+.container .menu-container .menu .wrapper {
+  width: 250px;
+  height: 250px;
   border: 15px solid #4f008c;
   border-radius: 25px;
   padding: 2rem;
   margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container .menu-container .menu svg {
+  width: 90%;
+  color: #03bb86;
 }/*# sourceMappingURL=style.css.map */

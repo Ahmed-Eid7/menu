@@ -69,13 +69,21 @@ a {
         width: 200px;
       }
 
-      svg {
-        width: 180px;
-        color: #03bb86;
+      .wrapper {
+        width: 250px;
+        height: 250px;
         border: 15px solid #4f008c;
         border-radius: 25px;
         padding: 2rem;
         margin-bottom: 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      svg {
+        width: 90%;
+        color: #03bb86;
       }
     }
   }
